@@ -105,9 +105,9 @@ You may also cite relevant academic papers here if applicable.
 Or, if available, use this BibTeX entry:
 
 ```bibtex
-@misc{pachoremayuresh2023optimal_control_exam_project_group_11,
+@misc{pachoremayuresh2023Optimal_Control_Quadrotor_Suspended_Load,
   author       = {Pachore, Mayuresh},
-  title        = {Optimal Control Exam Project Group 11},
+  title        = {Optimal Control Quadrotor Suspended Load},
   howpublished = {\url{https://github.com/pachoremayuresh/Optimal_Control_Quadrotor_Suspended_Load}},
   year         = {2023},
   note         = {Online; accessed 2 September 2025}
