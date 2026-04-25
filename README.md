@@ -108,7 +108,7 @@ Or, if available, use this BibTeX entry:
 @misc{pachoremayuresh2023optimal_control_exam_project_group_11,
   author       = {Pachore, Mayuresh},
   title        = {Optimal Control Exam Project Group 11},
-  howpublished = {\url{https://github.com/pachoremayuresh/Optimal\_Control\_Exam\_Project\_Group\_11}},
+  howpublished = {\url{https://github.com/pachoremayuresh/Optimal_Control_Quadrotor_Suspended_Load}},
   year         = {2023},
   note         = {Online; accessed 2 September 2025}
 }
